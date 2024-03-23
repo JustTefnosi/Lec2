@@ -1,17 +1,15 @@
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     background-color: rgb(50, 128, 47);
 }
 
 .text{
 color: rgb(255, 0, 0);
-background-color: blueviolet;
-}
-#text2 {
-background-color: darkgoldenrod;
+background-color: rgb(255, 0, 0);
 }
 .lightblue {
-    color: lightblue;
+    color: rgb(255, 0, 0);
+    background-color: lightblue;
 }
 .flex {
     display: flex;
@@ -23,4 +21,21 @@ table,
     padding: 0;
     margin: 0;
     border: 2px solid black
+}
+.name {
+    color: rgb(255, 255, 255);
+    background-color: rgb(66, 136, 48);
+}
+.hello {
+    color: red;
+    background-color: rgb(73, 136, 136);
+}
+.div {
+    background-color: purple;
+}
+.luka {
+    background-color: blue;
+}
+.div1 {
+    background-color: blue;
 }
